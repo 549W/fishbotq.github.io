@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# **FISH** *beta2*
 
-You can use the [editor on GitHub](https://github.com/fishbotq/fishbotq.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+一个多功能的QQ群机器人。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 如何使用
 
-### Markdown
+将fish（192328902）和fish-副本（2598602533）拉入QQ群中，通过发送形如/fish *** on或/fish *** off的指令来开启或关闭功能即可。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 功能介绍
 
-```markdown
-Syntax highlighted code block
+*echo*   开启后，群内消息将有10%的概率被fish回音。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fishbotq/fishbotq.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*setu*   开启后，在群内发送st即可使用。
